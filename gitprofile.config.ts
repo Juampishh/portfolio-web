@@ -132,11 +132,7 @@ const CONFIG = {
     'Docker',
     'API REST',
     'Mercado Libre API',
-    'React Native',
-    'Firebase',
     'Express.js',
-    'Next.js',
-    'Contentful CMS',
   ],
   experiences: [
     {
