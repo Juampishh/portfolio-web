@@ -152,14 +152,14 @@ const CONFIG = {
     {
       company: 'Almoby Solutions',
       position: 'Desarrollador Front-End',
-      from: '2023',
+      from: '2024',
       to: 'Presente',
       companyLink: '#',
     },
     {
       company: 'Casa de Gobierno del Chaco',
       position: 'Desarrollador Back-End (Pasantía)',
-      from: '2023',
+      from: '2024',
       to: 'Presente',
       companyLink: '#',
     },
